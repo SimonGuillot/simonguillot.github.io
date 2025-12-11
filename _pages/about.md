@@ -10,8 +10,7 @@ redirect_from:
 
 About me
 ======
-I'm a research working on computational semantics and word representations interpretability issues. 
+I'm a researcher working on computational semantics and word representations interpretability issues. 
 
-I am currently finishing my PhD at [LIUM](https://lium.univ-lemans.fr/lium/lst/) in the Language and Speech Technologies team. I'm working there with Nicolas Dugué on
-an interpretable word embeddings named SINr to develop the usage of interpretable representations in humanities, and cognitively informed research.
+I am currently finishing my PhD at [LIUM](https://lium.univ-lemans.fr/lium/lst/) in the Language and Speech Technologies team. I'm working there with Nicolas Dugué to develop the usage of interpretable representations in humanities, and cognitively informed linguistics research.
 
