@@ -1,5 +1,5 @@
 ---
-title: "2022"
+title: "2025"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022
@@ -8,13 +8,6 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Database Admninistration
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+15 hours of Tutorials for 3rd year students
