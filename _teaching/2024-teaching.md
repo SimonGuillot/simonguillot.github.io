@@ -1,5 +1,5 @@
 ---
-title: "2022"
+title: "2024"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022
