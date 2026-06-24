@@ -1,20 +1,25 @@
 ---
-title: "2022"
+title: "2023"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022
+permalink: /teaching/2023
 venue: "Le Mans Université"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+* Introduction to Python/Numpy
 ======
+24 hours of Tutorials for 2nd-year CompSci students.
 
-Heading 2
+* Introduction to Python
 ======
+12 hours of Tutorials for 1st-year math/physics/biology students.
 
-Heading 3
+* Algorithms and Programming
 ======
+24 hours of Tutorials for 2nd-year CompSci students.
+
+* Natural Language Processing
+======
+Introductory lecture for Master students on distributional representations.

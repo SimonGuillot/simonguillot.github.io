@@ -8,13 +8,15 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+* Introduction to Python/Numpy
 ======
+24 hours of Tutorials for 2nd-year CompSci students.
 
-Heading 2
+* Introduction to Python
 ======
+24 hours of Tutorials for 1st-year math/physics/biology students.
 
-Heading 3
+
+* Natural Language Processing
 ======
+Introductory lecture for Master students on distributional representations.
